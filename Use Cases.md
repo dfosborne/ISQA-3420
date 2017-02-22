@@ -29,10 +29,10 @@
 
 **Stakeholders:**  
 -Manager: To receive clear and relevant software information   
--Developer: To provide the relevant software package information
+-Developer: To provide the relevant software package information  
 
 **Preconditions:**  
--Relevant information for the software is in the Licenses and Vulnerabilities of Software database
+-Relevant information for the software is in the Licenses and Vulnerabilities of Software database  
 -Accurate license and vulnerability information for software has been provided 
 
 **Main Success Scenario:** Manager receives accurate license and vulnerability information for the requested software
@@ -40,3 +40,43 @@
 **Failed End Conditions:** Manager receives inaccurate or invalid license and vulnerability information for the requested software
 
 **Trigger:** Corporate mananger uploads or identifies software to which license and vulnerability information is provided
+
+
+###Use Case #2
+**Title:**  
+
+**Primary Actor:**   
+
+**Goal in Context:**  
+
+**Stakeholders:**  
+-Manager:   
+
+**Preconditions:**  
+-Relevant 
+
+**Main Success Scenario:** 
+
+**Failed End Conditions:** 
+
+**Trigger:** 
+
+
+###Use Case #3
+**Title:**  
+
+**Primary Actor:**   
+
+**Goal in Context:**  
+
+**Stakeholders:**  
+-Manager:   
+
+**Preconditions:**  
+-Relevant 
+
+**Main Success Scenario:** 
+
+**Failed End Conditions:** 
+
+**Trigger:** 
