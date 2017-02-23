@@ -20,20 +20,31 @@
 
 
 ###Data Flows  
-**Software Package:** The software package that is being sent from the Developer to "Check Software for OSS Components."  
+**Software Package:** The software package that is being sent from the Developer to "Check Software for OSS Components." 
+
 **Software Package Name:** The name of the software package submitted by the Developer to be checked for vulnerabilities in the "NIST Vulnerabilities" repository.  
+
 **License Scan Results:** The open source software results of the scanned software package.
+
 **Vulnerability Results:** The vulnerability results of the software package.  
+
 **Request for Software License and Vulnerability Info.:** A request submitted by the Manager or the Developer to receive software license and vulnerability information.  
-**Software License and Vulnerability Results:** The retrieved results from the "Licenses and Vulnerabilities of Software" repository for the request submitted by the Developer or the Manager.  
-**Request for Current Software Policies:**  A request submitted by the Manager to receive current policies for a specific software.  
+
+**Software License and Vulnerability Results:** The retrieved results from the "Licenses and Vulnerabilities of Software" repository for the request submitted by the Developer or the Manager. 
+
+**Request for Current Software Policies:**  A request submitted by the Manager to receive current policies for a specific software. 
+
 **Current Software Policies:** The retrieved results from the "Company Software Policy" repository for the request submitted by the Manager for a specific software.  
+
 **New Policy for Software:** New policy information for a specific software submitted by the Manager.  
+
 **Edit of Software Policy:** Edit of existing policy for a specific software submitted by the Manager.  
 
 
 
 ###Data Repositories
 **NIST Vulnerabilities:** This is an external database that contains information about known vulnerabilities with software.  
+
 **Licenses and Vulnerabilities of Software:** This is an internal database that includes NIST vulnerabilities and open source software components for relevant company software.  
+
 **Company Software Policy:** This is an internal database that contains the company's policies for software.
