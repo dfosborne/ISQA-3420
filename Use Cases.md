@@ -43,23 +43,25 @@
 
 
 ###Use Case #2
-**Title:**  
+**Title:** Create New Software Policy 
 
-**Primary Actor:**   
+**Primary Actor:** Manager  
 
-**Goal in Context:**  
+**Goal in Context:** The manager is able to create a new software policy from requested software information 
 
 **Stakeholders:**  
--Manager:   
+-Manager: To create a new software policy   
 
 **Preconditions:**  
--Relevant 
+-Requested software license and vulnerabilities are provided
+-Current software policy information is provided to determine if policy exists
+-Accurate information is in the appropriate databases
 
-**Main Success Scenario:** 
+**Main Success Scenario:** Manager creates new software policy based on requested software information
 
-**Failed End Conditions:** 
+**Failed End Conditions:** Manager creates new software policy when policy already exists because inaccurate information was provided to manager
 
-**Trigger:** 
+**Trigger:** Manager submits new policy for software to be created
 
 
 ###Use Case #3
