@@ -65,20 +65,20 @@
 
 
 ###Use Case #3
-**Title:**  
+**Title:** Scan Software for Open Source Software (OSS) and NIST Vulnerabilities 
 
-**Primary Actor:**   
+**Primary Actor:** Developer  
 
-**Goal in Context:**  
+**Goal in Context:** The developer submits a software package to be scanned for OSS components and NIST vulnerabilites and the results are then returned 
 
 **Stakeholders:**  
--Manager:   
+-Developer: The developer provides software package to be scanned  
 
 **Preconditions:**  
--Relevant 
+-NIST Vulnerabilities database contains information about specific software package
 
-**Main Success Scenario:** 
+**Main Success Scenario:** The developer submits software package to be scanned and receives valid results
 
-**Failed End Conditions:** 
+**Failed End Conditions:** The developer submits software package to be scanned but receives invalid results
 
 **Trigger:** 
