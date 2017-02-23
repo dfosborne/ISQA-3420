@@ -31,9 +31,9 @@
 -Manager: To create a new software policy   
 
 **Preconditions:**  
--Requested software license and vulnerabilities are provided
--Current software policy information is provided to determine if policy exists
--Accurate information is in the appropriate databases
+-Requested software license and vulnerabilities are provided  
+-Current software policy information is provided to determine if policy exists  
+-Accurate information is in the appropriate databases  
 
 **Main Success Scenario:** Manager creates new software policy based on requested software information
 
@@ -53,7 +53,8 @@
 -Developer: The developer provides software package to be scanned  
 
 **Preconditions:**  
--NIST Vulnerabilities database contains information about specific software package
+-NIST Vulnerabilities database contains information about specific software package  
+-Developer provides valid software packag
 
 **Main Success Scenario:** The developer submits software package to be scanned and receives valid results
 
